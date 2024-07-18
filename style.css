@@ -1,0 +1,13 @@
+.card-body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+main{
+
+    background-color: rgb(135, 221, 236);
+    padding: 20px;
+
+ }
